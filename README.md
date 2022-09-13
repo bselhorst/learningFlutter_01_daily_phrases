@@ -1,6 +1,6 @@
 # learning_01_daily_phrases
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
